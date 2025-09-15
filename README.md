@@ -3,7 +3,7 @@
 
 
 
-**لینک‌های مهم**
+# **لینک‌های مهم**
 
 **Galxe Quest (تسک):** https://app.galxe.com/quest/HcGM4DxUeoF5K2dkXQ8MYM?sort=Trending
 
@@ -15,7 +15,7 @@
 
 
 
-**چک‌لیست سریع (Checklist)**
+# **چک‌لیست سریع (Checklist)**
 
 ✅ ورود به صفحه Galxe و اتصال کیف پول
 
@@ -31,7 +31,7 @@
 
 
 
-**راهنمای گام‌به‌گام**
+# **راهنمای گام‌به‌گام**
 **1) کامل کردن Galxe Quest**
 
 وارد لینک Galxe شو، کیف پول (MetaMask یا WalletConnect) را متصل کن.
